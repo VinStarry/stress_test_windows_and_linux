@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vinstarry/CLionProjects/multi_client_linux/client.h
+iostream
+-
+fstream
+-
+sys/types.h
+-
+sys/socket.h
+-
+thread
+-
+mutex
+-
+vector
+-
+string
+-
+string.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+
+/home/vinstarry/CLionProjects/multi_client_linux/main.cpp
+client.h
+/home/vinstarry/CLionProjects/multi_client_linux/client.h
+

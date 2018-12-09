@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/multi_client_linux.dir/main.cpp.o CMakeFiles/multi_client_linux.dir/client.cpp.o  -o multi_client_linux -lpthread 
