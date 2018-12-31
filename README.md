@@ -9,9 +9,9 @@ Simple stress testing tool on Windows and Linux. Windows和Linux平台下的简�
 
 在Visual Studio 2017上进行的开发。  
 
-已经进行了Release，可以直接运行 **Release/client_test.exe ** 
+已经进行了Release，可以直接运行 **Release/client_test.exe** 
 
-运行参数的配置文件可以通过设置 **Release/server.config ** 
+运行参数的配置文件可以通过设置 **Release/server.config** 
 
 server.config的格式如下  
 
